@@ -11,6 +11,12 @@ body {
     background-position: left;
   }
   
+  #Hero-Section2 {
+    background-image: url(../img/space.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
   /* Mis trabajos */
   
   #Mis-trabajos .image-top {
