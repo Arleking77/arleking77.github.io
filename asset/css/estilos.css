@@ -17,6 +17,13 @@ body {
     background-size: cover;
     background-position: left;
   }
+
+  #Hero-Section3 {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
   /* Mis trabajos */
   
   #Mis-trabajos .image-top {
